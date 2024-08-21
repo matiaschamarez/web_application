@@ -1,0 +1,21 @@
+[
+  {
+    "name": "cleric",
+    "range": "melee",
+    "type": "support/fighter",
+    "hard_ability": "healing field",
+    "age": 50
+  },
+  {
+    "name": "Medium",
+    "range": "Ranged",
+    "type": "Damage/AOE",
+    "hard_ability": "fireball"
+  },
+  {
+    "name": "tank",
+    "range": "melee",
+    "type": "endurance/frontlane",
+    "hard_ability": "scale skin"
+  }
+]
